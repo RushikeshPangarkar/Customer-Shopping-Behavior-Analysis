@@ -4,7 +4,6 @@ This project explores retail customer purchasing behavior using a sample dataset
 
 ## Project Overview
 The goal of this project is to turn raw retail transaction data into clear business insights. The analysis focuses on:
-
 customer spending patterns
 product popularity and ratings
 discount effectiveness
