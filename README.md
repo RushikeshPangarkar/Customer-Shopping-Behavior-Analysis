@@ -12,3 +12,10 @@ The goal of this project is to turn raw retail transaction data into clear busin
 - subscription behavior
 - customer segmentation
 - revenue contribution by demographic and behavioral factors
+
+## What's Included
+
+- SQL analysis queries in [Customer Behavior SQL.sql](Customer%20Behavior%20SQL.sql)
+- Exploratory analysis notebook in [customer_shopping_behavior.ipynb](customer_shopping_behavior.ipynb)
+- Raw source dataset in [customer_shopping_behavior (1).csv](customer_shopping_behavior%20%281%29.csv)
+- Power BI dashboard file in [Customer Behavior Dashboard.pbix](Customer%20Behavior%20Dashboard.pbix)
