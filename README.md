@@ -43,7 +43,7 @@ The dataset contains 3,900 customer records and 18 columns, including:
 - Payment Method
 - Frequency of Purchases
 
-- ## Business Questions Covered
+## Business Questions Covered
 
 The SQL script answers the following questions:
 
